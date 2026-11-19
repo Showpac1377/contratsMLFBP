@@ -1,1 +1,882 @@
-
+{
+ "teams": [
+  {
+   "version": 1,
+   "team": "FBP Islanders",
+   "currentSeason": 2026,
+   "nSeasons": 8,
+   "caps": {
+    "2026": 104000000,
+    "2027": 113500000
+   },
+   "rules": {
+    "maxResign": 6,
+    "maxYears": 16
+   },
+   "players": [
+    {
+     "id": "p1",
+     "name": "Logan Cooley",
+     "pos": "F",
+     "birth": "2004-05-04",
+     "ppm": 0.69,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 950000,
+       "r": false
+      },
+      "2027": {
+       "a": 10000000,
+       "r": false
+      },
+      "2028": {
+       "a": 10000000,
+       "r": false
+      },
+      "2029": {
+       "a": 10000000,
+       "r": false
+      },
+      "2030": {
+       "a": 10000000,
+       "r": false
+      },
+      "2031": {
+       "a": 10000000,
+       "r": false
+      },
+      "2032": {
+       "a": 10000000,
+       "r": false
+      },
+      "2033": {
+       "a": 10000000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p2",
+     "name": "Jake Guentzel",
+     "pos": "F",
+     "birth": "1994-10-06",
+     "ppm": 1.09,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 9000000,
+       "r": false
+      },
+      "2027": {
+       "a": 9000000,
+       "r": false
+      },
+      "2028": {
+       "a": 9000000,
+       "r": false
+      },
+      "2029": {
+       "a": 9000000,
+       "r": false
+      },
+      "2030": {
+       "a": 9000000,
+       "r": false
+      },
+      "2031": {
+       "a": 9000000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p3",
+     "name": "Wyatt Johnston",
+     "pos": "F",
+     "birth": "2003-05-14",
+     "ppm": 1.05,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 8400000,
+       "r": false
+      },
+      "2027": {
+       "a": 8400000,
+       "r": true
+      },
+      "2028": {
+       "a": 8400000,
+       "r": true
+      },
+      "2029": {
+       "a": 8400000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p4",
+     "name": "Jordan Kyrou",
+     "pos": "F",
+     "birth": "1998-05-05",
+     "ppm": 0.69,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 8125000,
+       "r": false
+      },
+      "2027": {
+       "a": 8125000,
+       "r": false
+      },
+      "2028": {
+       "a": 8125000,
+       "r": false
+      },
+      "2029": {
+       "a": 8125000,
+       "r": false
+      },
+      "2030": {
+       "a": 8125000,
+       "r": false
+      },
+      "2031": {
+       "a": 8125000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p5",
+     "name": "Nick Schmaltz",
+     "pos": "F",
+     "birth": "1996-02-23",
+     "ppm": 0.73,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 5850000,
+       "r": false
+      },
+      "2027": {
+       "a": 8000000,
+       "r": false
+      },
+      "2028": {
+       "a": 8000000,
+       "r": false
+      },
+      "2029": {
+       "a": 8000000,
+       "r": false
+      },
+      "2030": {
+       "a": 8000000,
+       "r": false
+      },
+      "2031": {
+       "a": 8000000,
+       "r": false
+      },
+      "2032": {
+       "a": 8000000,
+       "r": false
+      },
+      "2033": {
+       "a": 8000000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p6",
+     "name": "Dylan Holloway",
+     "pos": "F",
+     "birth": "2001-09-23",
+     "ppm": 0.77,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 2290457,
+       "r": false
+      },
+      "2027": {
+       "a": 7750000,
+       "r": false
+      },
+      "2028": {
+       "a": 7750000,
+       "r": false
+      },
+      "2029": {
+       "a": 7750000,
+       "r": false
+      },
+      "2030": {
+       "a": 7750000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p7",
+     "name": "Anders Lee",
+     "pos": "F",
+     "birth": "1990-07-03",
+     "ppm": 0.31,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 7000000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p8",
+     "name": "Ryan McLeod",
+     "pos": "F",
+     "birth": "1999-09-21",
+     "ppm": 0.46,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 5000000,
+       "r": false
+      },
+      "2027": {
+       "a": 5000000,
+       "r": false
+      },
+      "2028": {
+       "a": 5000000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p9",
+     "name": "Simon Holmstrom",
+     "pos": "F",
+     "birth": "2001-05-24",
+     "ppm": 0.49,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 3625000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p10",
+     "name": "Blake Lizotte",
+     "pos": "F",
+     "birth": "1997-12-13",
+     "ppm": 0.34,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 1850000,
+       "r": false
+      },
+      "2027": {
+       "a": 2250000,
+       "r": false
+      },
+      "2028": {
+       "a": 2250000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p11",
+     "name": "Bobby Brink",
+     "pos": "F",
+     "birth": "2001-07-08",
+     "ppm": 0.3,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 1500000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p12",
+     "name": "Jamie Benn",
+     "pos": "F",
+     "birth": "1989-07-18",
+     "ppm": 0.19,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 1000000,
+       "r": false
+      },
+      "2027": {
+       "a": 1000000,
+       "r": false
+      },
+      "2028": {
+       "a": 1000000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p13",
+     "name": "Dominic James",
+     "pos": "F",
+     "birth": "",
+     "ppm": 0.35,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 910000,
+       "r": false
+      },
+      "2027": {
+       "a": 910000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p14",
+     "name": "Emmitt Finnie",
+     "pos": "F",
+     "birth": "",
+     "ppm": 0.32,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 845000,
+       "r": false
+      },
+      "2027": {
+       "a": 845000,
+       "r": false
+      },
+      "2028": {
+       "a": 845000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p15",
+     "name": "Braeden Bowman",
+     "pos": "F",
+     "birth": "",
+     "ppm": 0.48,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 837500,
+       "r": false
+      },
+      "2027": {
+       "a": 837500,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p16",
+     "name": "Filip Hronek",
+     "pos": "D",
+     "birth": "1997-11-02",
+     "ppm": 0.63,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 7250000,
+       "r": false
+      },
+      "2027": {
+       "a": 7250000,
+       "r": false
+      },
+      "2028": {
+       "a": 7250000,
+       "r": false
+      },
+      "2029": {
+       "a": 7250000,
+       "r": false
+      },
+      "2030": {
+       "a": 7250000,
+       "r": false
+      },
+      "2031": {
+       "a": 7250000,
+       "r": false
+      },
+      "2032": {
+       "a": 7250000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p17",
+     "name": "Jonas Brodin",
+     "pos": "D",
+     "birth": "1993-07-12",
+     "ppm": 0.29,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 6000000,
+       "r": false
+      },
+      "2027": {
+       "a": 6000000,
+       "r": false
+      },
+      "2028": {
+       "a": 6000000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p18",
+     "name": "Nick Jensen",
+     "pos": "D",
+     "birth": "1990-09-21",
+     "ppm": 0.29,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 4050000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p19",
+     "name": "Mattias Ekholm",
+     "pos": "D",
+     "birth": "1990-05-24",
+     "ppm": 0.43,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 6250000,
+       "r": false
+      },
+      "2027": {
+       "a": 4000000,
+       "r": false
+      },
+      "2028": {
+       "a": 4000000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p20",
+     "name": "Kaedan Korczak",
+     "pos": "D",
+     "birth": "2001-01-29",
+     "ppm": 0.29,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 825000,
+       "r": false
+      },
+      "2027": {
+       "a": 3250000,
+       "r": false
+      },
+      "2028": {
+       "a": 3250000,
+       "r": false
+      },
+      "2029": {
+       "a": 3250000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p21",
+     "name": "Jalen Chatfield",
+     "pos": "D",
+     "birth": "1996-05-15",
+     "ppm": 0.26,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 3000000,
+       "r": false
+      },
+      "2027": {
+       "a": 3000000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p22",
+     "name": "Zach Whitecloud",
+     "pos": "D",
+     "birth": "1996-11-28",
+     "ppm": 0.22,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 2750000,
+       "r": false
+      },
+      "2027": {
+       "a": 2750000,
+       "r": false
+      },
+      "2028": {
+       "a": 2750000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p23",
+     "name": "Matthew Schaefer",
+     "pos": "D",
+     "birth": "2007-09-05",
+     "ppm": 0.28,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 975000,
+       "r": false
+      },
+      "2027": {
+       "a": 975000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p24",
+     "name": "Elias Salomonsson",
+     "pos": "D",
+     "birth": "2004-08-31",
+     "ppm": 0.18,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 815000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p25",
+     "name": "Maxwell Crozier",
+     "pos": "D",
+     "birth": "",
+     "ppm": 0.19,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 775000,
+       "r": false
+      },
+      "2027": {
+       "a": 775000,
+       "r": false
+      },
+      "2028": {
+       "a": 775000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p26",
+     "name": "Logan Thompson",
+     "pos": "G",
+     "birth": "1997-02-25",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 5850000,
+       "r": false
+      },
+      "2027": {
+       "a": 5850000,
+       "r": false
+      },
+      "2028": {
+       "a": 5850000,
+       "r": true
+      },
+      "2029": {
+       "a": 5850000,
+       "r": true
+      },
+      "2030": {
+       "a": 5850000,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p27",
+     "name": "Dennis Hildeby",
+     "pos": "G",
+     "birth": "2001-08-19",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 841667,
+       "r": false
+      },
+      "2027": {
+       "a": 841667,
+       "r": true
+      }
+     }
+    },
+    {
+     "id": "p28",
+     "name": "Carl Lindbom",
+     "pos": "G",
+     "birth": "",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 840000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p29",
+     "name": "Eric Comrie",
+     "pos": "G",
+     "birth": "1995-07-06",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2026": {
+       "a": 825000,
+       "r": false
+      }
+     }
+    }
+   ],
+   "history": [],
+   "id": "fbp",
+   "scenarios": [],
+   "salaryBasis": "cap"
+  },
+  {
+   "id": "ml",
+   "team": "ML Canadiens",
+   "currentSeason": 2026,
+   "nSeasons": 8,
+   "caps": {
+    "2026": 104000000,
+    "2027": 113500000
+   },
+   "rules": {
+    "maxResign": 6,
+    "maxYears": 16
+   },
+   "players": [
+    {
+     "id": "p64c8b34e55",
+     "name": "Nick Suzuki",
+     "pos": "F",
+     "birth": "1999-08-10",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2025": {
+       "a": 8750000,
+       "r": false
+      },
+      "2026": {
+       "a": 6250000,
+       "r": false
+      },
+      "2027": {
+       "a": 6000000,
+       "r": false
+      },
+      "2028": {
+       "a": 6000000,
+       "r": false
+      },
+      "2029": {
+       "a": 6000000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "pea8294a2b4",
+     "name": "Cole Caufield",
+     "pos": "F",
+     "birth": "2001-01-02",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2025": {
+       "a": 10000000,
+       "r": false
+      },
+      "2026": {
+       "a": 8700000,
+       "r": false
+      },
+      "2027": {
+       "a": 6215000,
+       "r": false
+      },
+      "2028": {
+       "a": 5985000,
+       "r": false
+      },
+      "2029": {
+       "a": 5985000,
+       "r": false
+      },
+      "2030": {
+       "a": 5985000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p7ed32bd100",
+     "name": "Dylan Guenther",
+     "pos": "F",
+     "birth": "2003-04-29",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2025": {
+       "a": 9000000,
+       "r": false
+      },
+      "2026": {
+       "a": 6750000,
+       "r": false
+      },
+      "2027": {
+       "a": 9000000,
+       "r": false
+      },
+      "2028": {
+       "a": 9000000,
+       "r": false
+      },
+      "2029": {
+       "a": 6750000,
+       "r": false
+      },
+      "2030": {
+       "a": 5700000,
+       "r": false
+      },
+      "2031": {
+       "a": 5500000,
+       "r": false
+      },
+      "2032": {
+       "a": 5442000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p67550b8d8e",
+     "name": "Lane Hutson",
+     "pos": "D",
+     "birth": "2004-02-07",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2025": {
+       "a": 1000000,
+       "r": false
+      },
+      "2026": {
+       "a": 1000000,
+       "r": false
+      },
+      "2027": {
+       "a": 1000000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "p082f16aa6b",
+     "name": "Danila Yurov",
+     "pos": "F",
+     "birth": "2003-12-28",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2025": {
+       "a": 1000000,
+       "r": false
+      },
+      "2026": {
+       "a": 1000000,
+       "r": false
+      },
+      "2027": {
+       "a": 1000000,
+       "r": false
+      }
+     }
+    },
+    {
+     "id": "pf0f9b58313",
+     "name": "David Reinbacher",
+     "pos": "D",
+     "birth": "2004-10-25",
+     "ppm": null,
+     "notes": "",
+     "contract": {
+      "2025": {
+       "a": 1000000,
+       "r": false
+      },
+      "2026": {
+       "a": 1000000,
+       "r": false
+      },
+      "2027": {
+       "a": 1000000,
+       "r": false
+      }
+     }
+    }
+   ],
+   "history": [],
+   "scenarios": [],
+   "salaryBasis": "total"
+  }
+ ],
+ "active": "fbp"
+}
